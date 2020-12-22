@@ -1,0 +1,22 @@
+.screen {
+  width: 500px;
+  height: 200px;
+  text-align: center;
+}
+
+.waiting {
+  background-color: aqua;
+}
+
+.ready {
+  background-color: red;
+  color: white;
+}
+
+.now {
+  background-color: greenyellow;
+}
+
+.hiding {
+  display: none;
+}
